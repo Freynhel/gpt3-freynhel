@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gpt3-freynhel/static/css/main.b5620aa3.css",
-    "main.js": "/gpt3-freynhel/static/js/main.a32c2c1c.js",
+    "main.js": "/gpt3-freynhel/static/js/main.b5965bfe.js",
     "static/media/ai.png": "/gpt3-freynhel/static/media/ai.aa60586ba1ba53762d94.png",
     "static/media/possibility.png": "/gpt3-freynhel/static/media/possibility.525f13b61a2157d44de0.png",
     "static/media/blog01.png": "/gpt3-freynhel/static/media/blog01.cefc0932eae0d33a0342.png",
@@ -10,13 +10,13 @@
     "static/media/blog05.png": "/gpt3-freynhel/static/media/blog05.bfaa1c1e3851158e0e1f.png",
     "static/media/blog02.png": "/gpt3-freynhel/static/media/blog02.ab0eb367561796e91532.png",
     "static/media/people.png": "/gpt3-freynhel/static/media/people.5cd2d6fbcd48bd63f106.png",
-    "static/media/logo.svg": "/gpt3-freynhel/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "static/media/logo.svg": "/gpt3-freynhel/static/media/logo.16efaf42dda438e5346df59725d9e6a6.svg",
     "index.html": "/gpt3-freynhel/index.html",
     "main.b5620aa3.css.map": "/gpt3-freynhel/static/css/main.b5620aa3.css.map",
-    "main.a32c2c1c.js.map": "/gpt3-freynhel/static/js/main.a32c2c1c.js.map"
+    "main.b5965bfe.js.map": "/gpt3-freynhel/static/js/main.b5965bfe.js.map"
   },
   "entrypoints": [
     "static/css/main.b5620aa3.css",
-    "static/js/main.a32c2c1c.js"
+    "static/js/main.b5965bfe.js"
   ]
 }
